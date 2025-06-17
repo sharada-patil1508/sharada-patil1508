@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharada</h1>
+ <h1 align="center">Hi 👋, I'm Sharada</h1>
 - 🌱 I’m currently **a final-year B.E. student at BNMIT, specializing in Computer Science and Engineering.**
 
 - 📫 How to reach me **patilsharada081@gmail.com**
