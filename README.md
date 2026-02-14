@@ -11,8 +11,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharada-patil1508&show_icons=true&locale=en&layout=compact" alt="sharada-patil1508" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharada-patil1508&show_icons=true&locale=en" alt="sharada-patil1508" /></p>
 
 
